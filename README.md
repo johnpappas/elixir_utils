@@ -1,6 +1,6 @@
 # IndexListener
 
-**Elixir wrapper for Redis**
+**Elixir wrappers for HTTPoison, Floki and Redis commands**
 
 ## Installation
 
